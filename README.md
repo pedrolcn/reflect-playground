@@ -14,3 +14,7 @@
  - Production readiness
  - much else
 
+## Warning
+
+**This repository contains metadata, a substance know to the state of California to cause bugs**
+
